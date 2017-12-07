@@ -1,6 +1,6 @@
 {
   "name": "vue-transition-group-x",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Enhanced transition-group for Vue",
   "author": "Nikola Kovacs <nikola.kovacs@gmail.com>",
   "main": "dist/vue-transition-group-x.common.js",
